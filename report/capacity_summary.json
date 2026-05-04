@@ -1,0 +1,7 @@
+{
+  "corridor": "ZON_NORR ↔ ZON_MITT",
+  "base_flow_mw": 2498.28,
+  "ttc_pos_mw": 3406.47,
+  "limiting_element": "vlow #971",
+  "note": "NTC = TTC - TRM. TRM not computed here; see the combined assignment for N-1 secure TTC."
+}
